@@ -7,10 +7,6 @@ __pycache__/
 *.pyd
 *.pkl
 
-# Don’t upload your trained models if repo is public
-model.pkl
-preprocessor.pkl
-
 # Virtual environment
 venv/
 env/
